@@ -1,2 +1,3 @@
 # yt-dlp-gui-complete
-YT-DLP-GUI complete! Just download it and then run it.
+This app ( for windows ) makes downloading YouTube videos **safer** and **easier**. Just enter the URL and the app will download it. Just that!
+
